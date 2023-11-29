@@ -13,7 +13,7 @@ const WelcomeBlock: React.FC = () => (
         </Typography>
         <Typography paragraph>
             Welcome to presentation page of Milan Polacek. There is currently only
-            few example. It is a page with list of shop items.
+            few example. It is a page with list of shop items and text nine predictor.
         </Typography>
     </Container>
 )
