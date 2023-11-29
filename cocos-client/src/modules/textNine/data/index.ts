@@ -1,0 +1,1 @@
+export { useGetDictionary } from './useGetDictionary'
